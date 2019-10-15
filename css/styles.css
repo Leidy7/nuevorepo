@@ -1,11 +1,12 @@
 html{
-font size: 800px;
+font size: 100px;
 text-align:center;
 align-items: center;
 align-content: center;
 	}
 	.miclase
 	{
+		color: white; 
 
 		}
 		html.div
